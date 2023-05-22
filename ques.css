@@ -79,6 +79,7 @@ h2{
   #header{
     height: 42px;
     width: 100%;
+    top:0px;
     background-image: linear-gradient(to bottom,seagreen,white);
     text-align: center;
     font-size: xx-large;
