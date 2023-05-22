@@ -80,7 +80,8 @@ h2{
     background-image: linear-gradient(to bottom,darkcyan,rgb(135, 209, 209));
     text-align: center;
     font-size: xx-large;
-   
+    margin:0;
+    top:0;
     position: fixed;
    
 }
