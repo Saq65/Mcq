@@ -97,6 +97,7 @@ h2 {
 
     p {
         font-size: medium;
+        font-family: monospace;
     }
 
     #header {
@@ -104,6 +105,7 @@ h2 {
         width: 100%;
         background-color: white;
         color: black;
+        top: 0px;
         text-align: center;
         font-size: xx-large;
         position: fixed;
